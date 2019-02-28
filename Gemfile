@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'devise'
 gem 'pry'
 gem 'pry-rails'
 gem 'bootstrap-sass'
